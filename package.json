@@ -1,6 +1,6 @@
 {
-  "name": "@danielmoncada/angular-datetime-picker-moment-adapter",
-  "version": "4.0.0",
+  "name": "@richagain/angular-datetime-picker-moment-adapter",
+  "version": "5.0.0",
   "description": "Angular Date Time Picker (MomentJs Adapter)",
   "keywords": [
     "Angular",
@@ -15,7 +15,7 @@
     "moment",
     "momentjs"
   ],
-  "author": "Maintained and updated by Daniel Moncada, original implementatiom by Daniel Pan",
+  "author": "Maintained and updated by Richard Zheng, original implementatiom by Daniel Pan",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielmoncada/date-time-picker-moment-adapter.git"
+    "url": "https://github.com/richagain/date-time-picker-moment-adapter.git"
   },
   "dependencies": {
     "@angular/animations": "^18.1.3",
