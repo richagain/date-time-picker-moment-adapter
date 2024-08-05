@@ -1,7 +1,13 @@
 {
-  "name": "@danielmoncada/angular-datetime-picker-moment-adapter",
-  "version": "4.0.0",
+  "author": "Maintained and updated by Daniel Moncada, original implementatiom by Daniel Pan",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
   "description": "Angular Date Time Picker (MomentJs Adpater)",
+  "devDependencies": {
+    "@danielmoncada/angular-datetime-picker": "^18.0.0"
+  },
+  "homepage": "https://github.com/richagain/date-time-picker-moment-adapter",
   "keywords": [
     "Angular",
     "datepicker",
@@ -15,26 +21,20 @@
     "moment",
     "momentjs"
   ],
-  "author": "Maintained and updated by Daniel Moncada, original implementatiom by Daniel Pan",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/danielmoncada/date-time-picker-moment-adapter.git"
+  "name": "@richagain/angular-datetime-picker-moment-adapter",
+  "peerDependencies": {
+    "@angular/cdk": "^18.1.3",
+    "@angular/common": "^18.1.3",
+    "@angular/core": "^18.1.3",
+    "moment": "^2.29.4"
   },
-  "homepage": "https://github.com/danielmoncada/date-time-picker-moment-adapter",
   "publishConfig": {
     "access": "public"
   },
-  "peerDependencies": {
-    "@angular/cdk": "^17.0.0",
-    "@angular/common": "^17.0.0",
-    "@angular/core": "^17.0.0",
-    "moment": "^2.29.4"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richagain/date-time-picker-moment-adapter.git"
   },
-  "dependencies": {
-    "tslib": "^2.0.0"
-  },
-  "devDependencies": {
-    "@danielmoncada/angular-datetime-picker": "^17.0.0"
-  }
+  "version": "5.0.3"
 }
