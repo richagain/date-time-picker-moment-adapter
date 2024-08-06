@@ -24,13 +24,13 @@ This is a MomentJs adapter to be used with the following date time picker contro
 How to Use
 -------
 
- 1. Install with [npm](https://www.npmjs.com):`npm install @danielmoncada/angular-datetime-picker-moment-adapter --save`
+ 1. Install with [npm](https://www.npmjs.com):`npm install @richagain/angular-datetime-picker-moment-adapter --save`
  2.
 
     ```typescript
     import { NgModule } from '@angular/core';
     import { OwlDateTimeModule, OWL_DATE_TIME_FORMATS} from '@danielmoncada/angular-datetime-picker;
-    import { OwlMomentDateTimeModule } from '@danielmoncada/angular-datetime-picker-moment-adapter';
+    import { OwlMomentDateTimeModule } from '@richagain/angular-datetime-picker-moment-adapter';
 
     // See the Moment.js docs for the meaning of these formats:
     // https://momentjs.com/docs/#/displaying/format/
@@ -75,4 +75,4 @@ License
 Author
 -------
 
-**Maintained and updated by Daniel Moncada, original implementatiom by Daniel Pan**
+**Maintained and updated by Richard Zheng, original implementatiom by Daniel Pan**
