@@ -1,8 +1,8 @@
 Angular Date Time Picker (MomentJs Adapter)
 ========================
 
-[![npm](https://img.shields.io/npm/v/@danielmoncada/angular-datetime-picker-moment-adapter.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/@danielmoncada/angular-datetime-picker-moment-adapter)
-[![npm](https://img.shields.io/npm/dm/@danielmoncada/angular-datetime-picker-moment-adapter.svg)](https://www.npmjs.com/package/@danielmoncada/angular-datetime-picker-moment-adapter)
+[![npm](https://img.shields.io/npm/v/@richagain/angular-datetime-picker-moment-adapter.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/@danielmoncada/angular-datetime-picker-moment-adapter)
+[![npm](https://img.shields.io/npm/dm/@richagain/angular-datetime-picker-moment-adapter.svg)](https://www.npmjs.com/package/@danielmoncada/angular-datetime-picker-moment-adapter)
 
 **Angular date time picker - MomentJs Adpater**
 
