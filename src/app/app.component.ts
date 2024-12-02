@@ -6,9 +6,10 @@ import * as moment from 'moment-timezone';
 import { OwlDateTimeComponent } from '@danielmoncada/angular-datetime-picker';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss'],
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrls: ['./app.component.scss'],
+    standalone: false
 })
 export class AppComponent implements AfterViewInit {
   @ViewChild('date_range_component', { static: true })
