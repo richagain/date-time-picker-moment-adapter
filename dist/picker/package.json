@@ -33,7 +33,7 @@
     "type": "git",
     "url": "https://github.com/richagain/date-time-picker-moment-adapter.git"
   },
-  "version": "6.0.4",
+  "version": "6.0.5",
   "module": "fesm2022/richagain-angular-datetime-picker-moment-adapter.mjs",
   "typings": "index.d.ts",
   "exports": {
